@@ -28,7 +28,7 @@ O Leatmeask é uma aplicação para poder interagir com sua audiência e respond
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate).
+Você pode visualizar o projeto através [desse link](https://letmeask-8737d.web.app).
 
 ## 🚀 Como executar
 
