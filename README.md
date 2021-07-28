@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Leatmeask" src="./src/assets/images/capa.png" width="100%">
+  <img alt="Leatmeask" src="./src/assets/images/Capa.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
